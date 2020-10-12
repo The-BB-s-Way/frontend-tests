@@ -1,0 +1,142 @@
+{
+    "name": "homepage",
+    "rows": [
+        {
+            "id": "main-header",
+            "name": "Main Header",
+            "customClasses": "bb-header",
+            "attributes": [],
+            "layout": {
+                "lg": 
+                [
+                    {
+                        "responsiveCode": "2-10",
+                        "columnGap": "0px",
+                        "rowGap": "0px",
+                        "customRowClasses": "bb-header",
+                        "customColumnsClasses": "bb-header-column",
+                        "attributes": [],
+                        "elements": [
+                            {
+                                "key": "imagesgroup",
+                                "value": {
+                                    "idGallery": 1,
+                                    "type": "gallery",
+                                    "showCaption": false,
+                                    "showTitle": false,
+                                    "showDescription": false,
+                                    "settings": {
+                                        "extendClassesToImages": true,
+                                        "id": "header-logo",
+                                        "customClasses": "header-logo",
+                                        "inlineStyle": "",
+                                        "attributes": []
+                                    }
+                                },
+                                "imagesgroup": [
+                                    {
+                                        "url": "",
+                                        "title": "",
+                                        "description": "",
+                                        "caption": "",
+                                        "idImage": 0
+                                    }
+                                ]
+                            },
+                            {
+                                "key": "menu",
+                                "value": {
+                                    "idMenu": 2,
+                                    "settings": {
+                                        "id": "header-menu",
+                                        "customClasses": "header-menu",
+                                        "inlineStyle": "",
+                                        "attributes": []
+                                    },
+                                    "menu": {
+                                        "id": 2,
+                                        "description": "Menù Header",
+                                        "items": [
+                                            {
+                                                "id": 3,
+                                                "name": "Item 1",
+                                                "idMenu": 2,
+                                                "idFather": null,
+                                                "isPost": false,
+                                                "isPage": false,
+                                                "idEntity": null,
+                                                "link": "#",
+                                                "order": 1,
+                                                "subMenu": [
+                                                    {
+                                                        "id": 7,
+                                                        "name": "Google",
+                                                        "idMenu": 2,
+                                                        "idFather": 3,
+                                                        "isPost": false,
+                                                        "isPage": false,
+                                                        "idEntity": null,
+                                                        "link": "https://google.it",
+                                                        "order": 1,
+                                                        "subMenu": []
+                                                    },
+                                                    {
+                                                        "id": 8,
+                                                        "name": "Facebook",
+                                                        "idMenu": 2,
+                                                        "idFather": 3,
+                                                        "isPost": false,
+                                                        "isPage": false,
+                                                        "idEntity": null,
+                                                        "link": "https://facebook.it",
+                                                        "order": 2,
+                                                        "subMenu": []
+                                                    },
+                                                    {
+                                                        "id": 9,
+                                                        "name": "Instagram",
+                                                        "idMenu": 2,
+                                                        "idFather": 3,
+                                                        "isPost": false,
+                                                        "isPage": false,
+                                                        "idEntity": null,
+                                                        "link": "https://instagram.it",
+                                                        "order": 3,
+                                                        "subMenu": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": 12,
+                                                "name": "Item 2",
+                                                "idMenu": 2,
+                                                "idFather": null,
+                                                "isPost": false,
+                                                "isPage": false,
+                                                "idEntity": null,
+                                                "link": "#",
+                                                "order": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "md": 
+                [
+
+                ],
+                "sm": 
+                [
+
+                ],
+                "xs": 
+                [
+                    
+                ]
+            }
+        }
+    ]
+}
