@@ -12,6 +12,8 @@ Non sarai completamente da solo, essendo un nuovo prodotto avrai a disposizione 
 
 Una volta finita di costruire la pagina, lo step bonus sarà di implementare il server side rendering.
 
+**NOTA BENE** Durante lo sviluppo dovrai creare anche un repository su github pubblico e dovrai fare il commit ogni volta che ti fermi (l'ideale sarebbe una volta al giorno almeno, meglio ancora se suddivisi per funzionalità). Chiamare il repository `IL_TUO_NOME-BBJOB`
+
 ## LIMITAZIONI
 Linguaggio: Typescript / Javascript con framework a scelta tra Angular, VueJS e ReactJS (preferenza su React).
 
