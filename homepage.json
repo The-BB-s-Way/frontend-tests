@@ -465,8 +465,8 @@
                                     "showControls": false,
                                     "loopVideo": true,
                                     "muteVideo": true,
-                                    "playInlineOnMobileDevices": false,
-                                    "lazyLoadVideo": true,
+                                    "playInlineOnMobileDevices": true,
+                                    "lazyLoadVideo": false,
                                     "autoplay": true
                                 },
                                 "settings": {
