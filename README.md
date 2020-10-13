@@ -1,18 +1,18 @@
 # Benvenuto/a
-Benvenuto e grazie per partecipare alle selezioni per lavorare presso **The BB's Way**!
+Benvenuto! Grazie per aver scelto di partecipare alle selezioni per lavorare presso **The BB's Way**!
 
 ## Consegna
-Costruire un sito istituzionale con il tuo personale gusto grafico. Dovrai occuparti della renderizzazione della pagina basandoti solamente su un json. Starà a te creare il css/scss più bello e avvincente! Deciderai animazioni, colori, formattazione del testo. Insomma, il lato grafico sarà completamente in mano a te!
+Costruisci un sito istituzionale con il tuo personale gusto grafico. Dovrai occuparti della renderizzazione della pagina, basandoti solamente su un json. Sta a te creare un css/scss bello e avvincente! Puoi scegliere animazioni, colori, formattazione del testo; il lato grafico è completamente nelle tue mani!
 
-Come partenza, come precedentemente detto, avrai un json che dovrai chiamare, leggere e "interpretare".
+Come base di partenza, come precedentemente detto, avrai un json che dovrai chiamare, leggere e "interpretare".
 
-Stiamo mettendo in piedi un nuovo motore per creare CMS che risponderà SOLAMENTE tramite JSON per poter dividere al 100% l'aspetto della programmazione pura con la grafica front-end. Il JSON è statico ed è un JSON di demo.
+Stiamo realizzando un nuovo motore per creare CMS che risponderà SOLAMENTE tramite JSON, per poter dividere al 100% l'aspetto della programmazione pura dalla grafica front-end. Il JSON è statico ed è un JSON di demo.
 
-Non sarai completamente da solo, essendo un nuovo prodotto avrai a disposizione una documentazione per capire un po di più i dati che riceverai.
+Essendo un nuovo prodotto, non sarai completamente da solo, ma avrai a disposizione la documentazione necessaria per comprendere più approfonditamente i dati che riceverai.
 
-Una volta finita di costruire la pagina, lo step bonus sarà di implementare il server side rendering.
+Una volta terminata la costruzione della pagina, lo step bonus sarà implementare il server side rendering.
 
-**NOTA BENE** Durante lo sviluppo dovrai creare anche un repository su github pubblico e dovrai fare il commit ogni volta che ti fermi (l'ideale sarebbe una volta al giorno almeno, meglio ancora se suddivisi per funzionalità). Chiamare il repository `IL_TUO_NOME-BBJOB`
+**NOTA BENE** Durante lo sviluppo dovrai creare anche un repository su github pubblico e dovrai fare il commit ogni volta che ti fermi. L’ideale sarebbe una volta al giorno almeno, meglio ancora se suddivisi per funzionalità. Chiama il repository `IL_TUO_NOME-BBJOB`
 
 ## LIMITAZIONI
 Linguaggio: Typescript / Javascript con framework a scelta tra Angular, VueJS e ReactJS (preferenza su React).
