@@ -1,3 +1,7 @@
+# Benvenuto/a
+Benvenuto e grazie per partecipare alle selezioni per lavorare presso **The BB's Way**!
+
+## Consegna
 Costruire un sito istituzionale con il tuo personale gusto grafico. Dovrai occuparti della renderizzazione della pagina basandoti solamente su un json. Starà a te creare il css/scss più bello e avvincente! Deciderai animazioni, colori, formattazione del testo. Insomma, il lato grafico sarà completamente in mano a te!
 
 Come partenza, come precedentemente detto, avrai un json che dovrai chiamare, leggere e "interpretare".
