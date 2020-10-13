@@ -13,6 +13,9 @@ Linguaggio: Typescript / Javascript con framework a scelta tra Angular, VueJS e 
 
 Framework CSS (se si vuole utilizzare): Bootstrap 4 oppure Material Design oppure TailwindCSS
 
+## Supporto
+Ci sono cose non chiare? Manda una mail a [luigi@thebbsway.com](mailto:luigi@thebbsway.com) mettendo in CC [luca@thebbsway.com](mailto:luca@thebbsway.com)
+
 ## Documentazione
 * [Pagina Principale](https://github.com/The-BB-s-Way/frontend-tests/wiki/Documentazione)
 * [Elemento: bbsway-products](https://github.com/The-BB-s-Way/frontend-tests/wiki/Elemento---bbsway-products)
