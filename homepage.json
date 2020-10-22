@@ -279,7 +279,7 @@
                     ]
                 },
                 {
-                    "responsiveCode": "3-3-3-3",
+                    "responsiveCode": "12",
                     "columnGap": "0px",
                     "rowGap": "0px",
                     "customRowClasses": "bb-punti-cardine-images-row",
@@ -368,7 +368,7 @@
                     ]
                 },
                 {
-                    "responsiveCode": "3-3-3-3",
+                    "responsiveCode": "12",
                     "columnGap": "0px",
                     "rowGap": "0px",
                     "customRowClasses": "bb-prodotti-row",
