@@ -539,7 +539,7 @@
                     ]
                 },
                 {
-                    "responsiveCode": "4-4-4",
+                    "responsiveCode": "12",
                     "columnGap": "0px",
                     "rowGap": "0px",
                     "customRowClasses": "bb-blog-row",
